@@ -1,0 +1,12 @@
+D:\Industrial Informatics\Lab1\Lab1\Lab1_Ex5\bin\Debug\Lab1_Ex5.exe
+D:\Industrial Informatics\Lab1\Lab1\Lab1_Ex5\bin\Debug\Lab1_Ex5.pdb
+D:\Industrial Informatics\Lab1\Lab1\Lab1_Ex5\obj\Debug\Lab1_Ex5.csproj.AssemblyReference.cache
+D:\Industrial Informatics\Lab1\Lab1\Lab1_Ex5\obj\Debug\Lab1_Ex5.csproj.CoreCompileInputs.cache
+D:\Industrial Informatics\Lab1\Lab1\Lab1_Ex5\obj\Debug\Lab1_Ex5.exe
+D:\Industrial Informatics\Lab1\Lab1\Lab1_Ex5\obj\Debug\Lab1_Ex5.pdb
+D:\Industrial Informatics\Lab1\Lab1_Ex5\bin\Debug\Lab1_Ex5.exe
+D:\Industrial Informatics\Lab1\Lab1_Ex5\bin\Debug\Lab1_Ex5.pdb
+D:\Industrial Informatics\Lab1\Lab1_Ex5\obj\Debug\Lab1_Ex5.csproj.AssemblyReference.cache
+D:\Industrial Informatics\Lab1\Lab1_Ex5\obj\Debug\Lab1_Ex5.csproj.CoreCompileInputs.cache
+D:\Industrial Informatics\Lab1\Lab1_Ex5\obj\Debug\Lab1_Ex5.exe
+D:\Industrial Informatics\Lab1\Lab1_Ex5\obj\Debug\Lab1_Ex5.pdb

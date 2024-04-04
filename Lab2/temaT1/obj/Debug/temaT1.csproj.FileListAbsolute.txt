@@ -1,0 +1,10 @@
+D:\Industrial Informatics\Lab2\temaT1\bin\Debug\temaT1.exe.config
+D:\Industrial Informatics\Lab2\temaT1\bin\Debug\temaT1.exe
+D:\Industrial Informatics\Lab2\temaT1\bin\Debug\temaT1.pdb
+D:\Industrial Informatics\Lab2\temaT1\obj\Debug\temaT1.csproj.AssemblyReference.cache
+D:\Industrial Informatics\Lab2\temaT1\obj\Debug\temaT1.Properties.Resources.resources
+D:\Industrial Informatics\Lab2\temaT1\obj\Debug\temaT1.csproj.GenerateResource.cache
+D:\Industrial Informatics\Lab2\temaT1\obj\Debug\temaT1.csproj.CoreCompileInputs.cache
+D:\Industrial Informatics\Lab2\temaT1\obj\Debug\temaT1.exe
+D:\Industrial Informatics\Lab2\temaT1\obj\Debug\temaT1.pdb
+D:\Industrial Informatics\Lab2\temaT1\obj\Debug\temaT1.Form1.resources

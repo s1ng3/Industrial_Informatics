@@ -1,0 +1,11 @@
+D:\Industrial Informatics\Lab2\wformex1\bin\Debug\wformex1.exe.config
+D:\Industrial Informatics\Lab2\wformex1\bin\Debug\wformex1.exe
+D:\Industrial Informatics\Lab2\wformex1\bin\Debug\wformex1.pdb
+D:\Industrial Informatics\Lab2\wformex1\obj\Debug\wformex1.csproj.AssemblyReference.cache
+D:\Industrial Informatics\Lab2\wformex1\obj\Debug\wformex1.Properties.Resources.resources
+D:\Industrial Informatics\Lab2\wformex1\obj\Debug\wformex1.csproj.GenerateResource.cache
+D:\Industrial Informatics\Lab2\wformex1\obj\Debug\wformex1.csproj.CoreCompileInputs.cache
+D:\Industrial Informatics\Lab2\wformex1\obj\Debug\wformex1.exe
+D:\Industrial Informatics\Lab2\wformex1\obj\Debug\wformex1.pdb
+D:\Industrial Informatics\Lab2\wformex1\obj\Debug\wformex1.Form1.resources
+D:\Industrial Informatics\Lab2\wformex1\obj\Debug\wformex1.Form2.resources

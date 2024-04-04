@@ -1,0 +1,7 @@
+buton
+cuvinte
+scriere
+terminare
+probleme
+facultate
+depresie

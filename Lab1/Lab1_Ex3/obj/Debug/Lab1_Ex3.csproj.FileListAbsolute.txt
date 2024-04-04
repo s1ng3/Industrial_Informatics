@@ -1,0 +1,6 @@
+D:\Industrial Informatics\Lab1\Lab1\Lab1_Ex3\Lab1_Ex3\bin\Debug\Lab1_Ex3.exe
+D:\Industrial Informatics\Lab1\Lab1\Lab1_Ex3\Lab1_Ex3\bin\Debug\Lab1_Ex3.pdb
+D:\Industrial Informatics\Lab1\Lab1\Lab1_Ex3\Lab1_Ex3\obj\Debug\Lab1_Ex3.csproj.AssemblyReference.cache
+D:\Industrial Informatics\Lab1\Lab1\Lab1_Ex3\Lab1_Ex3\obj\Debug\Lab1_Ex3.csproj.CoreCompileInputs.cache
+D:\Industrial Informatics\Lab1\Lab1\Lab1_Ex3\Lab1_Ex3\obj\Debug\Lab1_Ex3.exe
+D:\Industrial Informatics\Lab1\Lab1\Lab1_Ex3\Lab1_Ex3\obj\Debug\Lab1_Ex3.pdb
